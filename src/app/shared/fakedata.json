@@ -1,0 +1,56 @@
+{
+  "dataquiz": [
+    {
+    "description": "Jakarta adalah ibu kota indonesia",
+    "answer": "ya",
+    "option": [{
+        "label": "bukan",
+        "value": "bukan"
+      },
+      {
+        "label": "ya",
+        "value": "bukan"
+      },
+      {
+        "label": "salah",
+        "value": "bukan"
+      }
+    ]
+  },
+  {
+    "description": "Sukabumi adalah termasuk Jawabarat",
+    "answer": "ya",
+    "option": [{
+        "label": "bukan",
+        "value": "bukan"
+      },
+      {
+        "label": "ya",
+        "value": "bukan"
+      },
+      {
+        "label": "salah",
+        "value": "bukan"
+      }
+    ]
+  },
+  {
+    "description": "Juara dunia 202 Qatar",
+    "answer": "argentina",
+    "option": [{
+        "label": "Argentina",
+        "value": "argentina"
+      },
+      {
+        "label": "Portugal",
+        "value": "portugal"
+      },
+      {
+        "label": "France",
+        "value": "france"
+      }
+    ]
+  }
+]
+
+}
