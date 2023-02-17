@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  firebase: 'https://auth-59b16.firebaseio.com'
+  firebase: 'https://auth-59b16.firebaseio.com',
 };
 
 /*

@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  firebase: 'https://auth-59b16.firebaseio.com',
 };
