@@ -1,0 +1,5 @@
+{
+  "env": {
+    "environmentFile": "environment.staging.ts"
+  }
+}
